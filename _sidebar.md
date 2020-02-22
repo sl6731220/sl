@@ -1,28 +1,39 @@
-#  experience
+* **experience** 
 
-* [2006-2010]()
+  - [2006-2010](experience/1.md)
 
-  - [2010-2013]()
+  - [2010-2013](experience/3.md)
 
-- [2013-2017]()
-- [2019-2022]()
+  - [2013-2017](experience/4.md)
 
-# learningnote
+  - [2019-2022](experience/2.md)
 
-- ## linux
+* **learningnote**
 
-  - [ubuntu](learningnote/ubuntu.md)
-  - [centos](learningnote/centos)
-  - [kali]()
+  -  linux
 
-- ## docker
+       - [ubuntu](learningnote/ubuntu.md)
 
-  * [docker](learningnote/docker)
+       - [centos](learningnote/centos)
 
-- ## docsify
+       - [kali]()
 
-- ## AI
+  -  docker
 
-  - [machinelearning]()
-  - [deeplearning]()
+      - [docker](learningnote/docker.md)
+
+  -  tools
+  
+      - [github](learningnote/github.md)
+      - [docsify](learningnote/docsify.md)
+
+
+  -  AI
+
+      - [machinelearning](learningnote/machinglearning.md)
+      - [deeplearning](learningnote/deeplearning.md)
+  
+* **reference**
+   - [Docsify](<https://dreamwhigh.github.io/Docsify-Notes/#/docsify>)
+   - [Git](<https://dreamwhigh.github.io/Git-Notes/#/Git>)
 
