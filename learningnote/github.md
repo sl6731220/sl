@@ -93,7 +93,12 @@ git add 或者 git add *全部
 
 git commit -m "更新说明“
 
+config:
 
+找到上传项目目录的.git文件夹，打开之后找到config文件，在最后边加上一句话
+[user]
+email=your email
+name=your name
 
 
 
