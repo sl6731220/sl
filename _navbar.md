@@ -1,5 +1,5 @@
 * diary
-  * [2020.3.6](dairy/3.6.md)
+  * [2020.3.6](diary/3.6.md)
 
 
 * life
