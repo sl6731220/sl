@@ -1,4 +1,4 @@
-project推送
+# ubuntu project推送
 
 ssh keys创建
 
@@ -77,3 +77,24 @@ git remote add origin git@github.com:sl6731220/sl.git
  git push -u origin master
 ```
 
+
+
+# window10  推送
+
+安装git
+
+指定文件夹-----打开cmd------git clone http：sl
+
+cd sl -------git status
+
+更新：
+
+git add 或者 git add *全部
+
+git commit -m "更新说明“
+
+
+
+
+
+[reference](https://www.jianshu.com/p/803be5f58caf)
