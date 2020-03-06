@@ -93,6 +93,12 @@ git add 或者 git add *全部
 
 git commit -m "更新说明“
 
+git push -u origin master
+
+
+
+
+
 config:
 
 找到上传项目目录的.git文件夹，打开之后找到config文件，在最后边加上一句话
@@ -102,4 +108,6 @@ name=your name
 
 
 
-[reference](https://www.jianshu.com/p/803be5f58caf)
+
+
+[reference](https://www.jianshu.com/p/803be5f58caf,https://baijiahao.baidu.com/s?id=1619544681032320225&wfr=spider&for=pc)
