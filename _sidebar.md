@@ -30,6 +30,7 @@
 
   -  AI
 
+      - [python](learningnote/python.md)
       - [machinelearning](learningnote/machinglearning.md)
       - [deeplearning](learningnote/deeplearning.md)
   
